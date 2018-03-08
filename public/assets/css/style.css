@@ -1,0 +1,9 @@
+h1, h3 {
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+    color: whitesmoke
+}
+
+.title-header {
+    background-image: url("images/sportsbackground.jpg")
+}
